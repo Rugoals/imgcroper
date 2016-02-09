@@ -1,3 +1,3 @@
 # imgcroper
 
-developed
+resize image
